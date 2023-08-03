@@ -4,7 +4,7 @@
 //
 //  Created by scholar on 02/08/2023.
 //
-
+//COMMENT
 import SwiftUI
 
 struct MovieGenresView: View {
@@ -117,7 +117,7 @@ struct MovieGenresView: View {
                 Spacer()
                                      .frame(height: 75)
                                  RoundedRectangle(cornerRadius: 25)
-                                     .fill(.white)
+                    .fill(.pink)
                                      .frame(width: 1000, height: 0)
                                      .shadow(radius: 20)
                 
